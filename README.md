@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joonanykanen
 - 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning React & TypeScript
 - 💞️ I’m looking to collaborate on epic React-projects!
 - 📫 You can find me on Telegram: @joonanykanen
 
